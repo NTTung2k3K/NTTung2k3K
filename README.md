@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/tung2k3k" target="blank"><img align="center" src="https://www.pngmart.com/files/15/Circle-Facebook-Logo-PNG-Background-Image.png" alt="FacebookImage" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/tung2k3k" target="blank"><img align="center" src="https://cdn.techgyd.com/50-Best-Facebook-Logo-Icons-GIF-Transparent-PNG-Images-28.png" alt="FacebookImage" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nttungk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedinImage" height="30" width="40" /></a>
 
 </p>
