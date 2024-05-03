@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tùng</h1>
+<h1 align="center">Hi 👋 I'm Tùng</h1>
+
 - 📊 I'm a student at FPT University 
 - 👀 I’m interested coding
 - 🌱 I’m currently learning .NET Framework
