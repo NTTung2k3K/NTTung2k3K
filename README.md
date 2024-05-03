@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tùng</h1>
-<h3 align="center">I'm the Lead DevRel@Quine, a deep tech start up helping developers monetise their reputation!</h3>
-
 - 📊 I'm a student at FPT University 
 - 👀 I’m interested coding
 - 🌱 I’m currently learning .NET Framework
