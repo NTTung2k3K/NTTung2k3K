@@ -15,19 +15,19 @@
 - :school: I'm a student at FPT University 
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🌱 I’m currently learning `Software Engineering` with .NET Framework
-- :nerd_face: Always `learning new things`.
+
 - :thinking: I’m currently open for a new `job opportunity`,
 - 💞️ I’m looking to collaborate on a company with a high level of advancement
-- 📫 You can contact me via the facebook link or linkedin
 - :boom: You can visit [MY WEBSITE](https://tkblog-35b37.web.app/).
+- :nerd_face: Always `learning new things`.
 <br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:nttung2k3k@gmail.com"  target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/NTTung2k3K"  target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nttungk/"  target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:nttung2k3k@gmail.com"  target="_blank"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/NTTung2k3K"  target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nttungk/"  target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
