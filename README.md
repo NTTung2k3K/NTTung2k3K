@@ -60,7 +60,7 @@
 	
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Framework
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frameworks & Libraries
 <p align="center"> 
   &emsp; 
   <a > 
@@ -69,7 +69,24 @@
    &emsp; 
   <a > 
    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  </a>   
+  </a> 
+	 &emsp; 
+   <a > 
+   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  </a> 
+	 &emsp; 
+    <a > 
+   <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a>  
+	 &emsp; 
+   <a > 
+   <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=">
+  </a>  
+	 &emsp; 
+<a> 
+   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+  </a>  
+	 &emsp; 
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -82,16 +99,9 @@
   &emsp;
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
   &emsp;
+   <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"></a>
+  &emsp;
   
 </p>
 
 <br> 
-
----
-
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
