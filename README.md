@@ -22,21 +22,55 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-### Badges
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/nttung2k3k" title="nttung2k3k">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" />
+  </a>
+  <a href="https://github.com/nttung2k3k" title="nttung2k3k">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" />
+  </a>
+</div>
+
+---
+
+### 🏅 Badges
 
 <b>My GitHub Stats</b>
+<div align="center">
+  <a href="http://www.github.com/nttung2k3k">
+    <img src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nttung2k3k's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/nttung2k3k">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nttung2k3k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</div>
 
-<a href="http://www.github.com/nttung2k3k"><img src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nttung2k3k's GitHub stats" /></a>
+<b>Top Languages</b>
+<div align="center">
+  <a href="https://github.com/nttung2k3k">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttung2k3k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</div>
 
-<a href="http://www.github.com/nttung2k3k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nttung2k3k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/nttung2k3k" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttung2k3k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📌 Top Repositories
 
-<b>Top Repositories</b>
+<div align="center">
+  <a href="https://github.com/nttung2k3k/DiamondLuxuryWebApp">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nttung2k3k&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/nttung2k3k/DiamondLuxuryWebApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nttung2k3k&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-<br>
+### 🚀 Contributions & Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nttung2k3k&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
