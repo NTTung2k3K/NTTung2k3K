@@ -37,20 +37,13 @@
 
 ### 🏅 Badges
 
-<b>My GitHub Stats</b>
+
 <div align="center">
-  <a href="http://www.github.com/nttung2k3k">
+  <a href="http://www.github.com/nttung2k3k" style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nttung2k3k's GitHub stats" />
   </a>
-  <a href="http://www.github.com/nttung2k3k">
+  <a href="http://www.github.com/nttung2k3k" style="display: inline-block;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nttung2k3k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</div>
-
-<b>Top Languages</b>
-<div align="center">
-  <a href="https://github.com/nttung2k3k">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttung2k3k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </div>
 
@@ -69,7 +62,13 @@
 
 ### 🚀 Contributions & Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nttung2k3k&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/nttung2k3k">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nttung2k3k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+  <br>
+  <a href="https://github.com/nttung2k3k">
+    <img src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide_border=true" alt="GitHub Contributions Stats" />
+  </a>
 </div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
