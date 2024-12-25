@@ -24,12 +24,12 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div align="center" style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap;">
-  <a href="http://www.github.com/nttung2k3k" style="width: 48%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nttung2k3k's GitHub stats" />
+<div align="center">
+  <a href="https://github.com/nttung2k3k" title="nttung2k3k">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" />
   </a>
-  <a href="http://www.github.com/nttung2k3k" style="width: 48%;">
-    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=nttung2k3k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="nttung2k3k's GitHub streak stats" />
+  <a href="https://github.com/nttung2k3k" title="nttung2k3k">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
