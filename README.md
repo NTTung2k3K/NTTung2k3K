@@ -35,7 +35,7 @@
 
 ---
 
-### 🏅 Badges
+### 🚀 Contributions & Activity
 
 
 <div align="center">
@@ -59,17 +59,6 @@
 <br /><br /><br /><br /><br /><br /><br />
 
 ---
-
-### 🚀 Contributions & Activity
-<div align="center">
-  <a href="https://github.com/nttung2k3k">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nttung2k3k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/nttung2k3k">
-    <img src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide_border=true" alt="GitHub Contributions Stats" />
-  </a>
-</div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
