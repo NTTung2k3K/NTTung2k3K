@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tùng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-   <a href="https://github.com/nttung2k3k"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng!;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
+   <a href="https://github.com/nttung2k3k"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
 </p>
 
 
