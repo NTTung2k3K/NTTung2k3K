@@ -34,6 +34,15 @@
   </a>
 </div>
 
+<br>
+<h2 align="center">🏆 GitHub Trophy 🏆</h2>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NTTung2k3K&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+
 ---
 
 ### 🚀 Contributions & Activity
