@@ -18,7 +18,7 @@
 
 - :thinking: I’m currently open for a new `job opportunity`,
 - 💞️ I’m looking to collaborate on a company with a high level of advancement
-- 🖥️ My portfolio to showcase my projects and skills, check it out [MY_PORTFOLIO](https://tk-portfolio-three.vercel.app/).
+- 🖥 My portfolio to showcase my projects and skills, check it out [MY_PORTFOLIO](https://tk-portfolio-three.vercel.app/).
 - :boom: You can visit [MY WEBSITE](https://tkblog-35b37.web.app/).
 - :nerd_face: Always `learning new things`.
 <br>
