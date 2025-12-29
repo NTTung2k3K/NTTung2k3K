@@ -209,7 +209,15 @@
 </p>
 
 <br> 
-
+<div align="center">
+	<a href="#">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NTTung2k3K&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff"
+    alt="Contribution Graph"
+    width="100%"
+  />
+		</a>
+	</div>
 <div align="center">
 <a href="#"><img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" width="50%"></a>
 </div>
