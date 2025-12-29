@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Tùng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NTTung2k3K&color=0891B2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=NTTung2k3K&color=0891B2&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views">
+  </a>
+</p>
 
-<br>
 <p align="center">
    <a href="https://github.com/nttung2k3k"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=30&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
 </p>
-
 
 <br>
 
@@ -208,17 +208,10 @@
   &emsp;
 </p>
 
-
 <br> 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NTTung2k3K&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff"
-    alt="Contribution Graph"
-    width="100%"
-  />
-  <div align="center">
-<!-- Open for Work Banner -->
-<img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" width="50%">
-</div>
+
+<div align="center">
+<a href="#"><img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" width="50%"></a>
 </div>
 
 <br>
@@ -228,12 +221,10 @@
   
   <hr width="60%">
   
- 
-  
   <p>
-    <img src="https://img.shields.io/badge/©Nguyễn_Thanh_Tùng-0891B2?style=flat-square" alt="Copyright">
-    <img src="https://img.shields.io/badge/🎓_FPT_University_Student-FFFFFF?style=flat-square&logoColor=000000" alt="FPT Student">
-    <img src="https://img.shields.io/badge/💻_Full_Stack_Developer-0891B2?style=flat-square" alt="Full Stack Dev">
+    <a href="#"><img src="https://img.shields.io/badge/©Nguyễn_Thanh_Tùng-0891B2?style=flat-square" alt="Copyright"></a>
+    <a href="#"><img src="https://img.shields.io/badge/🎓_FPT_University_Student-FFFFFF?style=flat-square&logoColor=000000" alt="FPT Student"></a>
+    <a href="#"><img src="https://img.shields.io/badge/💻_Full_Stack_Developer-0891B2?style=flat-square" alt="Full Stack Dev"></a>
   </p>
   
 </div>
