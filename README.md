@@ -1,4 +1,9 @@
 <h1 align="center">Hi , I'm Tùng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NTTung2k3K&color=0891B2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
+
+<br>
 <p align="center">
    <a href="https://github.com/nttung2k3k"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=30&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
 </p>
@@ -57,11 +62,57 @@
 ### 📌 Top Repositories
 
 <div align="center">
-  <a href="https://github.com/nttung2k3k/DiamondLuxuryWebApp">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nttung2k3k&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/NTTung2k3K/DiamondLuxuryWebApp">
+    <img
+      align="left"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    />
+  </a>
+  <a href="https://github.com/NTTung2k3K/BAMBI_Flutter">
+    <img
+      align="right"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    />
   </a>
 </div>
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
+<div align="center">
+  <a href="https://github.com/NTTung2k3K/BAMBI_Kiosk">
+    <img
+      align="left"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    />
+  </a>
+  <a href="https://github.com/NTTung2k3K/BAMBI_NextJS">
+    <img
+      align="right"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    />
+  </a>
+</div>
+<br /><br /><br /><br />
+<div align="center">
+  <a href="https://github.com/NTTung2k3K/2F_Flutter">
+    <img
+      align="left"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    />
+  </a>
+  <a href="https://github.com/NTTung2k3K/2F_NextJS">
+    <img
+      align="right"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+    />
+  </a>
+</div>
+<br /><br /><br /><br />
+
 
 ---
 
@@ -126,7 +177,7 @@
   </a>  
 	 &emsp; 
 <a> 
-   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>  
 	 &emsp; 
 </p>
@@ -135,15 +186,54 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
+  <a href="#">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  </a>
   &emsp;
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="#">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
   &emsp;
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+  <a href="#">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  </a>
   &emsp;
-   <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"></a>
+  <a href="#">
+    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white"/>
+  </a>
   &emsp;
-  
+  <a href="#">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  &emsp;
 </p>
 
+
 <br> 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NTTung2k3K&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff"
+    alt="Contribution Graph"
+    width="100%"
+  />
+  <div align="center">
+<!-- Open for Work Banner -->
+<img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" width="50%">
+</div>
+</div>
+
+<br>
+
+<!-- ✨ Footer -->
+<div align="center">
+  
+  <hr width="60%">
+  
+ 
+  
+  <p>
+    <img src="https://img.shields.io/badge/©Nguyễn_Thanh_Tùng-0891B2?style=flat-square" alt="Copyright">
+    <img src="https://img.shields.io/badge/🎓_FPT_University_Student-FFFFFF?style=flat-square&logoColor=000000" alt="FPT Student">
+    <img src="https://img.shields.io/badge/💻_Full_Stack_Developer-0891B2?style=flat-square" alt="Full Stack Dev">
+  </p>
+  
+</div>
