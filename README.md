@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Tùng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Tùng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></h1>
 <p align="center">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=NTTung2k3K&color=0891B2&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views">
@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/nttung2k3k"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=30&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
+   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=30&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
 </p>
 
 <br>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="5%"></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="49%"></picture>
 
 <br><br>
 - :school: I'm a student at FPT University 
@@ -31,11 +31,11 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/nttung2k3k" title="nttung2k3k">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" />
+  <a href="#" title="nttung2k3k">
+    <img width="49%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" />
   </a>
-  <a href="https://github.com/nttung2k3k" title="nttung2k3k">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <a href="#" title="nttung2k3k">
+    <img align="right" height="100%" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NTTung2k3K&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=NTTung2k3K&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 
@@ -53,136 +53,122 @@
 ### 🚀 Contributions & Activity
 
 <div align="center">
-  <a href="http://www.github.com/nttung2k3k" style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nttung2k3k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</div>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px;">
+    <a href="https://github.com/NTTung2k3K/BAMBI_Flutter" style="width: 48%;">
+      <img
+        width="49%"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      />
+    </a>
+    <a href="https://github.com/NTTung2k3K/BAMBI_NextJS" style="width: 48%;">
+      <img
+        width="49%"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      />
+    </a>
+  </div>
 
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px;">
+    <a href="https://github.com/NTTung2k3K/BAMBI_Kiosk" style="width: 48%;">
+      <img
+        width="49%"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      />
+    </a>
+    <a href="https://github.com/NTTung2k3K/DiamondLuxuryWebApp" style="width: 48%;">
+      <img
+        width="49%"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      />
+    </a>
+  </div>
 
-### 📌 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/NTTung2k3K/DiamondLuxuryWebApp">
-    <img
-      align="left"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-    />
-  </a>
-  <a href="https://github.com/NTTung2k3K/BAMBI_Flutter">
-    <img
-      align="right"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-    />
-  </a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 40px;">
+    <a href="https://github.com/NTTung2k3K/2F_Flutter" style="width: 48%;">
+      <img
+        width="49%"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      />
+    </a>
+    <a href="https://github.com/NTTung2k3K/2F_NextJS" style="width: 48%;">
+      <img
+        width="49%"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      />
+    </a>
+  </div>
 </div>
-<br /><br /><br /><br />
-<div align="center">
-  <a href="https://github.com/NTTung2k3K/BAMBI_Kiosk">
-    <img
-      align="left"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-    />
-  </a>
-  <a href="https://github.com/NTTung2k3K/BAMBI_NextJS">
-    <img
-      align="right"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-    />
-  </a>
-</div>
-<br /><br /><br /><br />
-<div align="center">
-  <a href="https://github.com/NTTung2k3K/2F_Flutter">
-    <img
-      align="left"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-    />
-  </a>
-  <a href="https://github.com/NTTung2k3K/2F_NextJS">
-    <img
-      align="right"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-    />
-  </a>
-</div>
-<br /><br /><br /><br />
 
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="5%"> </picture> Connect with me
+
 <p align="center">
-	<a href="mailto:nttung2k3k@gmail.com"  target="_blank"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/NTTung2k3K"  target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nttungk/"  target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nttung2k3k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/NTTung2k3K" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nttungk/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="5%">  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
 	&emsp;
-   <a href="" target="_blank">
+   <a href="#" target="_blank">
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
   &emsp;
-   <a href="" target="_blank">
+   <a href="#" target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   </a>
 	
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frameworks & Libraries
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="5%">  </picture> Frameworks & Libraries
 <p align="center"> 
   &emsp; 
-  <a > 
+  <a  href="#"> 
    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   </a>   
    &emsp; 
-  <a > 
+  <a  href="#"> 
    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   </a> 
 	 &emsp; 
-   <a > 
+   <a  href="#"> 
    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   </a> 
 	 &emsp; 
-    <a > 
+    <a  href="#"> 
    <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>  
 	 &emsp; 
-   <a > 
+   <a  href="#"> 
    <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=">
   </a>  
 	 &emsp; 
-<a> 
+<a  href="#"> 
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>  
 	 &emsp; 
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="5%">  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -219,7 +205,7 @@
 		</a>
 	</div>
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" width="50%"></a>
+<a href="#"><img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" height="20%" width="50%"></a>
 </div>
 
 <br>
