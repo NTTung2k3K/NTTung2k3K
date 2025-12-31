@@ -31,12 +31,26 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
-  <a href="#" title="nttung2k3k">
-    <img width="49%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" />
-  </a>
-  <a href="#" title="nttung2k3k">
-    <img align="right" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="#" title="nttung2k3k">
+          <img 
+            width="100%" 
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" 
+          />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="#" title="nttung2k3k">
+          <img 
+            width="100%" 
+            src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" 
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -55,51 +69,71 @@
 ### 🚀 Contributions & Activity
 
 <div align="center">
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px;">
-    <a href="https://github.com/NTTung2k3K/BAMBI_Flutter" style="width: 48%;">
-      <img
-        width="49%"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      />
-    </a>
-    <a href="https://github.com/NTTung2k3K/BAMBI_NextJS" style="width: 48%;">
-      <img
-        width="49%"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      />
-    </a>
-  </div>
+  <!-- Dòng 1: BAMBI Flutter & BAMBI NextJS -->
+  <table style="width: 100%; margin-bottom: 25px;">
+    <tr>
+      <td width="50%" style="padding-right: 7px;">
+        <a href="https://github.com/NTTung2k3K/BAMBI_Flutter">
+          <img
+            width="100%"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+          />
+        </a>
+      </td>
+      <td width="50%" style="padding-left: 7px;">
+        <a href="https://github.com/NTTung2k3K/BAMBI_NextJS">
+          <img
+            width="100%"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px;">
-    <a href="https://github.com/NTTung2k3K/BAMBI_Kiosk" style="width: 48%;">
-      <img
-        width="49%"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      />
-    </a>
-    <a href="https://github.com/NTTung2k3K/DiamondLuxuryWebApp" style="width: 48%;">
-      <img
-        width="49%"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      />
-    </a>
-  </div>
+  <!-- Dòng 2: BAMBI Kiosk & DiamondLuxuryWebApp -->
+  <table style="width: 100%; margin-bottom: 25px;">
+    <tr>
+      <td width="50%" style="padding-right: 7px;">
+        <a href="https://github.com/NTTung2k3K/BAMBI_Kiosk">
+          <img
+            width="100%"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+          />
+        </a>
+      </td>
+      <td width="50%" style="padding-left: 7px;">
+        <a href="https://github.com/NTTung2k3K/DiamondLuxuryWebApp">
+          <img
+            width="100%"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 40px;">
-    <a href="https://github.com/NTTung2k3K/2F_Flutter" style="width: 48%;">
-      <img
-        width="49%"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      />
-    </a>
-    <a href="https://github.com/NTTung2k3K/2F_NextJS" style="width: 48%;">
-      <img
-        width="49%"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      />
-    </a>
-  </div>
+  <!-- Dòng 3: 2F Flutter & 2F NextJS -->
+  <table style="width: 100%; margin-bottom: 40px;">
+    <tr>
+      <td width="50%" style="padding-right: 7px;">
+        <a href="https://github.com/NTTung2k3K/2F_Flutter">
+          <img
+            width="100%"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+          />
+        </a>
+      </td>
+      <td width="50%" style="padding-left: 7px;">
+        <a href="https://github.com/NTTung2k3K/2F_NextJS">
+          <img
+            width="100%"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
