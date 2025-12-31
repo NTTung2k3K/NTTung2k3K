@@ -37,7 +37,7 @@
         <a href="#" title="nttung2k3k">
           <img 
             width="100%" 
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" 
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true&cache_seconds=1" 
           />
         </a>
       </td>
@@ -45,7 +45,7 @@
         <a href="#" title="nttung2k3k">
           <img 
             width="100%" 
-            src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" 
+            src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1" 
           />
         </a>
       </td>
@@ -69,14 +69,14 @@
 ### 🚀 Contributions & Activity
 
 <div align="center">
-  <!-- Dòng 1: BAMBI Flutter & BAMBI NextJS -->
+
   <table style="width: 100%; margin-bottom: 25px;">
     <tr>
       <td width="50%" style="padding-right: 7px;">
         <a href="https://github.com/NTTung2k3K/BAMBI_Flutter">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
@@ -84,21 +84,20 @@
         <a href="https://github.com/NTTung2k3K/BAMBI_NextJS">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Dòng 2: BAMBI Kiosk & DiamondLuxuryWebApp -->
   <table style="width: 100%; margin-bottom: 25px;">
     <tr>
       <td width="50%" style="padding-right: 7px;">
         <a href="https://github.com/NTTung2k3K/BAMBI_Kiosk">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
@@ -106,21 +105,21 @@
         <a href="https://github.com/NTTung2k3K/DiamondLuxuryWebApp">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Dòng 3: 2F Flutter & 2F NextJS -->
+
   <table style="width: 100%; margin-bottom: 40px;">
     <tr>
       <td width="50%" style="padding-right: 7px;">
         <a href="https://github.com/NTTung2k3K/2F_Flutter">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
@@ -128,7 +127,7 @@
         <a href="https://github.com/NTTung2k3K/2F_NextJS">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
@@ -234,7 +233,7 @@
 <div align="center">
 	<a href="#">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NTTung2k3K&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NTTung2k3K&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff&cache_seconds=1"
     alt="Contribution Graph"
     width="100%"
   />
