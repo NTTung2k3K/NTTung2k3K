@@ -35,7 +35,7 @@
     <img width="49%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" />
   </a>
   <a href="#" title="nttung2k3k">
-    <img align="right" height="100%" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="right" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
@@ -44,7 +44,9 @@
 <br>
 
 <div align="center">
+	 <a href="#">
   <img src="https://github-trophies.vercel.app/?username=NTTung2k3K&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+		 </a>
 </div>
 
 
