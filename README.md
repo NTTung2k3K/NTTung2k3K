@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Tùng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></h1>
 <p align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=NTTung2k3K&color=0891B2&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=nttung2k3k&color=0891B2&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views">
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 	 <a href="#">
-  <img src="https://github-trophies.vercel.app/?username=NTTung2k3K&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=nttung2k3k&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 		 </a>
 </div>
 
@@ -73,18 +73,18 @@
   <table style="width: 100%; margin-bottom: 25px;">
     <tr>
       <td width="50%" style="padding-right: 7px;">
-        <a href="https://github.com/NTTung2k3K/BAMBI_Flutter">
+        <a href="https://github.com/nttung2k3k/BAMBI_Flutter">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nttung2k3k&repo=BAMBI_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
       <td width="50%" style="padding-left: 7px;">
-        <a href="https://github.com/NTTung2k3K/BAMBI_NextJS">
+        <a href="https://github.com/nttung2k3k/BAMBI_NextJS">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nttung2k3k&repo=BAMBI_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
@@ -94,18 +94,18 @@
   <table style="width: 100%; margin-bottom: 25px;">
     <tr>
       <td width="50%" style="padding-right: 7px;">
-        <a href="https://github.com/NTTung2k3K/BAMBI_Kiosk">
+        <a href="https://github.com/nttung2k3k/BAMBI_Kiosk">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nttung2k3k&repo=BAMBI_Kiosk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
       <td width="50%" style="padding-left: 7px;">
-        <a href="https://github.com/NTTung2k3K/DiamondLuxuryWebApp">
+        <a href="https://github.com/nttung2k3k/DiamondLuxuryWebApp">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nttung2k3k&repo=DiamondLuxuryWebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
@@ -116,18 +116,18 @@
   <table style="width: 100%; margin-bottom: 40px;">
     <tr>
       <td width="50%" style="padding-right: 7px;">
-        <a href="https://github.com/NTTung2k3K/2F_Flutter">
+        <a href="https://github.com/nttung2k3k/2F_Flutter">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nttung2k3k&repo=2F_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
       <td width="50%" style="padding-left: 7px;">
-        <a href="https://github.com/NTTung2k3K/2F_NextJS">
+        <a href="https://github.com/nttung2k3k/2F_NextJS">
           <img
             width="100%"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NTTung2k3K&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nttung2k3k&repo=2F_NextJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1"
           />
         </a>
       </td>
@@ -142,7 +142,7 @@
 
 <p align="center">
   <a href="mailto:nttung2k3k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/NTTung2k3K" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/nttung2k3k" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/nttungk/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -233,7 +233,7 @@
 <div align="center">
 	<a href="#">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NTTung2k3K&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff&cache_seconds=1"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nttung2k3k&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff&cache_seconds=1"
     alt="Contribution Graph"
     width="100%"
   />
