@@ -1,12 +1,12 @@
 <h1 align="center">Hi , I'm Tùng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></h1>
 <p align="center">
-  <a >
+  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=NTTung2k3K&color=0891B2&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views">
   </a>
 </p>
 
 <p align="center">
-   <a ><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=30&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
+   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=30&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Nguy%E1%BB%85n+Thanh+T%C3%B9ng;Full-Stack+Developer+from+Vietnam;ASP.NET+Core+MVC+and+Web+API;React%2C+Angular%2C+and+Next.js;Honored+Student+at+FPT+University;Aspiring+Technical+Team+Leader;Explore+My+Projects+on+GitHub!"></a>
 </p>
 
 <br>
@@ -34,7 +34,7 @@
   <table>
     <tr>
       <td width="50%">
-        <a  title="nttung2k3k">
+        <a href="#" title="nttung2k3k">
           <img 
             width="100%" 
             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nttung2k3k&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=8&layout=compact&border_color=0891b2&hide_border=true" 
@@ -42,7 +42,7 @@
         </a>
       </td>
       <td width="50%">
-        <a  title="nttung2k3k">
+        <a href="#" title="nttung2k3k">
           <img 
             width="100%" 
             src="https://github-readme-stats-eight-theta.vercel.app/api?username=nttung2k3k&show_icons=true&theme=react&border_color=0891b2&hide_border=true&rank_icon=github&include_all_commits=true" 
@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-	 <a >
+	 <a href="#">
   <img src="https://github-trophies.vercel.app/?username=NTTung2k3K&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 		 </a>
 </div>
@@ -153,23 +153,23 @@
 
 <p align="center"> 
   &emsp; 
-  <a  target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a  target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   </a> 
   &emsp;
-  <a  target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
 	&emsp;
-   <a  target="_blank">
+   <a href="#" target="_blank">
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
   &emsp;
-   <a  target="_blank">
+   <a href="#" target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   </a>
 	
@@ -178,27 +178,27 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="5%">  </picture> Frameworks & Libraries
 <p align="center"> 
   &emsp; 
-  <a  > 
+  <a  href="#"> 
    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   </a>   
    &emsp; 
-  <a  > 
+  <a  href="#"> 
    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   </a> 
 	 &emsp; 
-   <a  > 
+   <a  href="#"> 
    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   </a> 
 	 &emsp; 
-    <a  > 
+    <a  href="#"> 
    <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>  
 	 &emsp; 
-   <a  > 
+   <a  href="#"> 
    <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=">
   </a>  
 	 &emsp; 
-<a  > 
+<a  href="#"> 
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>  
 	 &emsp; 
@@ -208,23 +208,23 @@
  
 <p align="center">
   &emsp;
-  <a >
+  <a href="#">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white"/>
   </a>
   &emsp;
-  <a >
+  <a href="#">
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a>
   &emsp;
-  <a >
+  <a href="#">
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   </a>
   &emsp;
-  <a >
+  <a href="#">
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white"/>
   </a>
   &emsp;
-  <a >
+  <a href="#">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
   &emsp;
@@ -232,7 +232,7 @@
 
 <br> 
 <div align="center">
-	<a >
+	<a href="#">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=NTTung2k3K&theme=react-dark&bg_color=0d1117&hide_border=true&line=0891b2&point=ffffff&area=true&area_color=0891b2&title_color=ffffff"
     alt="Contribution Graph"
@@ -241,7 +241,7 @@
 		</a>
 	</div>
 <div align="center">
-<a ><img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" height="20%" width="50%"></a>
+<a href="#"><img src="https://img.shields.io/badge/🚀_OPEN_FOR_OPPORTUNITIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open for Opportunities" height="20%" width="50%"></a>
 </div>
 
 <br>
@@ -252,9 +252,9 @@
   <hr width="60%">
   
   <p>
-    <a ><img src="https://img.shields.io/badge/©Nguyễn_Thanh_Tùng-0891B2?style=flat-square" alt="Copyright"></a>
-    <a ><img src="https://img.shields.io/badge/🎓_FPT_University_Student-FFFFFF?style=flat-square&logoColor=000000" alt="FPT Student"></a>
-    <a ><img src="https://img.shields.io/badge/💻_Full_Stack_Developer-0891B2?style=flat-square" alt="Full Stack Dev"></a>
+    <a href="#"><img src="https://img.shields.io/badge/©Nguyễn_Thanh_Tùng-0891B2?style=flat-square" alt="Copyright"></a>
+    <a href="#"><img src="https://img.shields.io/badge/🎓_FPT_University_Student-FFFFFF?style=flat-square&logoColor=000000" alt="FPT Student"></a>
+    <a href="#"><img src="https://img.shields.io/badge/💻_Full_Stack_Developer-0891B2?style=flat-square" alt="Full Stack Dev"></a>
   </p>
   
 </div>
